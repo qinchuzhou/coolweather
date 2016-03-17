@@ -1,4 +1,4 @@
-package model;
+package com.qczcoolweather.app.model;
 
 public class City {
 	private int id;
